@@ -13,7 +13,7 @@ export const projects = [
       "Shopping cart",
       "Responsive layout",
     ],
-    github: "https://github.com/mekuanntmunye50-cmd/Amazone-clone", // Add your GitHub repo URL
+    github: "https://github.com/mekuanntmunye50-cmd/amazone-clone-final", // Add your GitHub repo URL
     liveDemo: "", // Add live demo URL if deployed
     image: "/project-previews/amazon-clone.svg",
     status: "Completed",
